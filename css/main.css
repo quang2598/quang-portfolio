@@ -1500,8 +1500,8 @@ header .logo a {
 
 .intro-info {
 	margin-top: 4.2rem;
-	margin-right: -500px;
-	margin-left: -500px;
+	margin-right: -100px;
+	margin-left: -100px;
 }
 .intro-info img {
 	height: 20rem;
